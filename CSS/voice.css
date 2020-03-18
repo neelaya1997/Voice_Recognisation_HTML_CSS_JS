@@ -1,0 +1,19 @@
+*{
+    font-family: 'Baloo Chettan 2', cursive;
+}
+body{
+    background-image: linear-gradient( 110.2deg, rgba(74,21,75,1)8.2%, rgba(54,197,240,1) 92.4% );
+    background-size: cover;
+    margin: 0;
+    padding: 2%;
+    height: 100vh;
+}
+#para{
+    border: 5px solid rgba(5, 161, 5, 0.527);
+    padding: 10px;
+    border-radius: 10%;
+}
+p{
+    color: white;
+    font-size: 30px;
+}
